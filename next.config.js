@@ -8,6 +8,7 @@ module.exports = {
       "cdn.fakercloud.com",
       "lh3.googleusercontent.com",
       "randomuser.me",
+      "firebasestorage.googleapis.com",
     ],
   },
 };

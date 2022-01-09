@@ -26,8 +26,6 @@ function Header() {
     return <div>Loading...</div>;
   }
 
-  console.log(session);
-
   return (
     <div className="sticky top-0 z-20 bg-white shadow-lg">
       <div
